@@ -1,11 +1,10 @@
-＃ifo-live下载链接
-## 佛跳墙（fotiaoqiang）最新版本下载fotiaoqiang的最新版本</a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.1. 7 /fotiaoqiang-v2.1. 7 .apk"> Android </a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.1. 7 /fotiaoqiang- 20200321- 2.1. 7 -Setup.exe"> Windows </a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.1. 7 /fotiaoqiang_darwin_amd64_install -20200321 .dmg"> Mac OS </a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.1. 8 /fotiaoqiang-v2.1. 8 .apk"> Android </a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.1. 8 /fotiaoqiang-2.1. 8 -Setup.exe"> Windows </a>
-- <a href="https://github.com/getfotiaoqiang/download/releases/download/V2.1. 8 /fotiaoqiang_darwin_amd64_install.dmg"> Mac OS </a>
-- IOS敬请期待
-
-## 官方网站
+如遇失聯，請參閲以下方式與我們取得聯係
+持續更新中.....
+🔐 官方頻道 (https://t.me/pomarketsGF) ｜
+📱 交流群組 (https://t.me/pomarketsQZ) ｜
+🔔 供需頻道 (https://t.me/pomarketsgx)
+🌐 官方網站 (https://pomarkets.com/) ｜
+❔ 在綫客服 (https://t.me/pomarketskf) ｜
+💻 TRX能量租賃 (https://t.me/pomarketstrxbot)
+🌐 官方論壇：https://pomarkets.com
+🆔 投訴mail:  support@pomarkets.com
